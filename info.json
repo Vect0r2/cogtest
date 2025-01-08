@@ -1,0 +1,20 @@
+{
+    "author": [
+        " Vect0r"
+    ],
+    "install_msg": "Test",
+    "name": "Test",
+    "short": "testy",
+    "description": "Testing ",
+    "permissions": [
+        "Manage Messages",
+        "Embed Links"
+    ],
+    "tags": [
+        "Space Station 13",
+        "Game",
+        "Administration",
+        "Utility",
+        "SS13"
+    ]
+}
