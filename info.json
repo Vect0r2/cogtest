@@ -1,0 +1,9 @@
+{
+    "author" : ["Vect0r"],
+    "install_msg" : "cogs",
+    "name" : "Cogs",
+    "short" : "Testing",
+    "requirements": ["Testing"],
+    "description" : "Test",
+    "tags" : ["Fun", "SS13", "Utility", "Administration"]
+}
